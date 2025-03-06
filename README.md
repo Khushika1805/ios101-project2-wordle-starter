@@ -1,13 +1,12 @@
 # ios101-project2-wordle-starter
 # ios101-project2-wordle-starter
 
-# Project 2 - *Name of App Here*
+# Project 2 - Wordle Pt 2
 
-Submitted by: **Your Name Here**
+Submitted by: Khushika Shah
 
-**Name of your app** is an app that ... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: 1 hours spent in total
 
 ## Required Features
 
